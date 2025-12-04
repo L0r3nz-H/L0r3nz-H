@@ -5,5 +5,5 @@
 I am a dual student in Business Informatics, driven by a passion for technology 💻. Beyond the screen, I'm deeply involved in photography 📸, videography 🎬, and the fascinating world of 3D printing and modeling 🖨️. My enthusiasm for open source 🐙 and hands-on projects shines through my work. I also enjoy tinkering with cars 🚗.
 
 - 💬 Talk to me about the latest trends in tech, capturing the perfect shot, or optimising 3D prints.
-- 👾 Fun fact: I've turned my passion for hardware into reality by building my own NAS and I'm always looking for new ways to customize and improve my car!
+- 👾 Fun fact: I've turned my passion for hardware into reality by building my own NAS and I'm also always looking for new ways to customize and improve my car!
 - 🌐 Explore my 3D printing designs on [MakerWorld](https://makerworld.com/en/@lorenzh) and [Printables](https://www.printables.com/@LorenzH).
