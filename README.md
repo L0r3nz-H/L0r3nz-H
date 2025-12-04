@@ -1,4 +1,4 @@
-## Hi there, [Lorenz](your_github_link_here) here 👋🏼👨🏻💻
+## Hi there, [Lorenz]() here 👋🏼👨🏻💻
 
 <img src="https://github.com/L0r3nz-H/L0r3nz-H/blob/main/etc/memoji.png" align="right" height="542" />
 
